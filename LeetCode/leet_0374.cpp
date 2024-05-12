@@ -11,6 +11,11 @@
 #define ll long long
 using namespace std;
 
+//placeholder
+int guess(int num){
+    return -1;
+}
+
 class Solution {
 public:
     int guessNumber(int n) {
