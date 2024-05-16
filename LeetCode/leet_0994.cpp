@@ -23,18 +23,12 @@ public:
             int dis = cell.second;
             reached[cy][cx] = true;
             q.pop();
-            printf("Checking: %d %d\n", cx, cy);
-            printf("Current DIS: %d\n", dis);
-            printf("Current MinVALUE: %d\n", minValues[cy][cx] );
             minValues[cy][cx] = min(minValues[cy][cx], dis);
-            printf("Current MinVALUE: %d\n", minValues[cy][cx] );
             for(int i = 0; i<4; i++){
                 int adjx = cx + dx[i];
                 int adjy = cy + dy[i];
-                printf("TESTIN x: %d; y: %d\n", adjx, adjy);
                 if(isValid(vis, adjx, adjy) && !vis[adjy][adjx] && grid[adjy][adjx]==1){
                     int newDis = dis+1;
-                    printf("PUSHING %d %d WITH DIS = %d\n", adjx, adjy, newDis);
                     vis[adjy][adjx] = true;
                     q.push({{adjx, adjy}, newDis});
                 }
@@ -47,7 +41,6 @@ public:
         for(int i = 0; i<grid.size(); i++){
             for(int j = 0; j<grid[0].size(); j++){
                 if(grid[i][j]==2){
-                    printf("x: %d; y: %d\n", j, i);
                     bfs(grid, minValues, j, i, reached);
                 }
             }
@@ -59,7 +52,6 @@ public:
                     return -1;
                 if(minValues[i][j]!=10000){
                     m = max(m, minValues[i][j]);
-                    printf("%d ",minValues[i][j]);
                 }
             }
         }
