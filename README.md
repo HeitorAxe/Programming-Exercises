@@ -1,0 +1,31 @@
+# Programming Problems
+
+## Problems Organized by Source and Category
+
+| Name | Source | Category | Tags |
+| --- | --- | --- | --- |
+| [leet_0374](LeetCode/leet_0374.cpp) | LeetCode | NA |  |
+| [leet_2462](LeetCode/leet_2462.cpp) | LeetCode | NA |  |
+| [leet_1926](LeetCode/leet_1926.cpp) | LeetCode | NA |  |
+| [leet_0216](LeetCode/leet_0216.cpp) | LeetCode | NA |  |
+| [leet_2336](LeetCode/leet_2336.cpp) | LeetCode | NA |  |
+| [leet_0215](LeetCode/leet_0215.cpp) | LeetCode | NA |  |
+| [leet_0875](LeetCode/leet_0875.cpp) | LeetCode | NA |  |
+| [leet_0994](LeetCode/leet_0994.cpp) | LeetCode | NA |  |
+| [leet_1137](LeetCode/leet_1137.cpp) | LeetCode | NA |  |
+| [leet_2542](LeetCode/leet_2542.cpp) | LeetCode | NA |  |
+| [leet_2300](LeetCode/leet_2300.cpp) | LeetCode | NA |  |
+| [leet_0162](LeetCode/leet_0162.cpp) | LeetCode | NA |  |
+| [leet_0017](LeetCode/leet_0017.cpp) | LeetCode | NA |  |
+| [GridPaths](CSES/GridPaths.cpp) | CSES | Introductory | Backtracking |
+| [bee_1973](Beecrowd/bee_1973.cpp) | Beecrowd | NA |  |
+| [bee_1934](Beecrowd/bee_1934.cpp) | Beecrowd | NA |  |
+| [bee_3139](Beecrowd/bee_3139.cpp) | Beecrowd | NA |  |
+| [bee_3349](Beecrowd/bee_3349.cpp) | Beecrowd | NA |  |
+| [bee_1966](Beecrowd/bee_1966.cpp) | Beecrowd | NA |  |
+| [bee_1032](Beecrowd/bee_1032.cpp) | Beecrowd | NA |  |
+| [bee_2550](Beecrowd/bee_2550.cpp) | Beecrowd | NA |  |
+| [CF_006_B](Codeforces/CF_006_B.cpp) | Codeforces | NA |  |
+| [CF_433_B](Codeforces/CF_433_B.cpp) | Codeforces | NA |  |
+| [CF_688_B](Codeforces/CF_688_B.cpp) | Codeforces | NA |  |
+| [CF_363_B](Codeforces/CF_363_B.cpp) | Codeforces | NA |  |
