@@ -25,6 +25,7 @@
 | [bee_1966](Beecrowd/bee_1966.cpp) | Beecrowd | NA |  |
 | [bee_1032](Beecrowd/bee_1032.cpp) | Beecrowd | NA |  |
 | [bee_2550](Beecrowd/bee_2550.cpp) | Beecrowd | NA |  |
+| [CF_766_B](Codeforces/CF_766_B.cpp) | Codeforces | NA |  |
 | [CF_415_B](Codeforces/CF_415_B.cpp) | Codeforces | NA |  |
 | [CF_006_B](Codeforces/CF_006_B.cpp) | Codeforces | NA |  |
 | [CF_433_B](Codeforces/CF_433_B.cpp) | Codeforces | NA |  |
