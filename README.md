@@ -29,9 +29,12 @@
 | [CF_415_B](Codeforces/CF_415_B.cpp) | Codeforces | NA |  |
 | [CF_006_B](Codeforces/CF_006_B.cpp) | Codeforces | NA |  |
 | [CF_433_B](Codeforces/CF_433_B.cpp) | Codeforces | NA |  |
+| [CF_1981_A](Codeforces/CF_1981_A.cpp) | Codeforces | NA |  |
 | [CF_688_B](Codeforces/CF_688_B.cpp) | Codeforces | NA |  |
 | [CF_079_B](Codeforces/CF_079_B.cpp) | Codeforces | NA |  |
 | [CF_451_B](Codeforces/CF_451_B.cpp) | Codeforces | NA |  |
 | [CF_1679_A](Codeforces/CF_1679_A.cpp) | Codeforces | NA |  |
 | [CF_1679_B](Codeforces/CF_1679_B.cpp) | Codeforces | NA |  |
 | [CF_363_B](Codeforces/CF_363_B.cpp) | Codeforces | NA |  |
+| [CF_479_B](Codeforces/CF_479_B.cpp) | Codeforces | NA |  |
+| [CF_371_C](Codeforces/CF_371_C.cpp) | Codeforces | NA |  |
