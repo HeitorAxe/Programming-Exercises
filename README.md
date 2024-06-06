@@ -17,6 +17,7 @@
 | [leet_2300](LeetCode/leet_2300.cpp) | LeetCode | NA |  |
 | [leet_0162](LeetCode/leet_0162.cpp) | LeetCode | NA |  |
 | [leet_0017](LeetCode/leet_0017.cpp) | LeetCode | NA |  |
+| [leet_0198](LeetCode/leet_0198.cpp) | LeetCode | NA |  |
 | [GridPaths](CSES/GridPaths.cpp) | CSES | Introductory | Backtracking |
 | [bee_1973](Beecrowd/bee_1973.cpp) | Beecrowd | NA |  |
 | [bee_1934](Beecrowd/bee_1934.cpp) | Beecrowd | NA |  |
@@ -33,7 +34,7 @@
 | [CF_1981_A](Codeforces/CF_1981_A.cpp) | Codeforces | NA |  |
 | [CF_688_B](Codeforces/CF_688_B.cpp) | Codeforces | NA |  |
 | [CF_1980_B](Codeforces/CF_1980_B.cpp) | Codeforces | NA |  |
-| [CF_189_A](Codeforces/CF_189_A.cpp) | Codeforces | NA |  |
+| [CF_189_A](Codeforces/CF_189_A.cpp) | Codeforces | NA | Dynamic Programming |
 | [CF_079_B](Codeforces/CF_079_B.cpp) | Codeforces | NA |  |
 | [CF_131_C](Codeforces/CF_131_C.cpp) | Codeforces | NA |  |
 | [CF_451_B](Codeforces/CF_451_B.cpp) | Codeforces | NA |  |
