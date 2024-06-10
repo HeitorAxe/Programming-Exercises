@@ -9,9 +9,11 @@
 | [leet_1926](LeetCode/leet_1926.cpp) | LeetCode | NA |  |
 | [leet_0216](LeetCode/leet_0216.cpp) | LeetCode | NA |  |
 | [leet_2336](LeetCode/leet_2336.cpp) | LeetCode | NA |  |
+| [leet_0974](LeetCode/leet_0974.cpp) | LeetCode | NA |  |
 | [leet_0215](LeetCode/leet_0215.cpp) | LeetCode | NA |  |
 | [leet_0875](LeetCode/leet_0875.cpp) | LeetCode | NA |  |
 | [leet_0994](LeetCode/leet_0994.cpp) | LeetCode | NA |  |
+| [leet_0523](LeetCode/leet_0523.cpp) | LeetCode | NA |  |
 | [leet_1137](LeetCode/leet_1137.cpp) | LeetCode | NA |  |
 | [leet_2542](LeetCode/leet_2542.cpp) | LeetCode | NA |  |
 | [leet_2300](LeetCode/leet_2300.cpp) | LeetCode | NA |  |
@@ -27,12 +29,14 @@
 | [bee_1032](Beecrowd/bee_1032.cpp) | Beecrowd | NA |  |
 | [bee_2550](Beecrowd/bee_2550.cpp) | Beecrowd | NA |  |
 | [CF_1980_A](Codeforces/CF_1980_A.cpp) | Codeforces | NA |  |
+| [CF_1979_A](Codeforces/CF_1979_A.cpp) | Codeforces | NA |  |
 | [CF_766_B](Codeforces/CF_766_B.cpp) | Codeforces | NA |  |
 | [CF_415_B](Codeforces/CF_415_B.cpp) | Codeforces | NA |  |
 | [CF_006_B](Codeforces/CF_006_B.cpp) | Codeforces | NA |  |
 | [CF_433_B](Codeforces/CF_433_B.cpp) | Codeforces | NA |  |
 | [CF_1981_A](Codeforces/CF_1981_A.cpp) | Codeforces | NA |  |
 | [CF_688_B](Codeforces/CF_688_B.cpp) | Codeforces | NA |  |
+| [CF_1979_B](Codeforces/CF_1979_B.cpp) | Codeforces | NA |  |
 | [CF_1980_B](Codeforces/CF_1980_B.cpp) | Codeforces | NA |  |
 | [CF_189_A](Codeforces/CF_189_A.cpp) | Codeforces | NA | Dynamic Programming |
 | [CF_079_B](Codeforces/CF_079_B.cpp) | Codeforces | NA |  |
