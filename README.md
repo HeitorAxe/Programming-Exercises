@@ -25,6 +25,7 @@
 | [leet_0017](LeetCode/leet_0017.cpp) | LeetCode | NA |  |
 | [leet_0198](LeetCode/leet_0198.cpp) | LeetCode | NA |  |
 | [leet_0502](LeetCode/leet_0502.cpp) | LeetCode | HARD | Priority Queue |
+| [leet_0330](LeetCode/leet_0330.cpp) | LeetCode | HARD | Greedy, Sorting |
 | [GridPaths](CSES/GridPaths.cpp) | CSES | Introductory | Backtracking |
 | [bee_1973](Beecrowd/bee_1973.cpp) | Beecrowd | NA |  |
 | [bee_1934](Beecrowd/bee_1934.cpp) | Beecrowd | NA |  |
