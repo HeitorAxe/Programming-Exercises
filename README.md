@@ -37,6 +37,8 @@
 | [leet_2037](LeetCode/leet_2037.cpp) | LeetCode | NA |  |
 | [CF_688_B](Codeforces/CF_688_B.cpp) | Codeforces | NA |  |
 | [CF_0378_B](Codeforces/CF_0378_B.cpp) | Codeforces | NA |  |
+| [CF_1851_A](Codeforces/CF_1851_A.cpp) | Codeforces | NA |  |
+| [CF_1851_B](Codeforces/CF_1851_B.cpp) | Codeforces | NA |  |
 | [CF_006_B](Codeforces/CF_006_B.cpp) | Codeforces | NA |  |
 | [CF_1980_C](Codeforces/CF_1980_C.cpp) | Codeforces | NA |  |
 | [CF_1679_B](Codeforces/CF_1679_B.cpp) | Codeforces | NA |  |
@@ -48,6 +50,7 @@
 | [CF_479_B](Codeforces/CF_479_B.cpp) | Codeforces | NA |  |
 | [CF_079_B](Codeforces/CF_079_B.cpp) | Codeforces | NA |  |
 | [CF_189_A](Codeforces/CF_189_A.cpp) | Codeforces | NA | Dynamic Programming |
+| [CF_1851_C](Codeforces/CF_1851_C.cpp) | Codeforces | NA |  |
 | [CF_131_C](Codeforces/CF_131_C.cpp) | Codeforces | NA |  |
 | [CF_1979_A](Codeforces/CF_1979_A.cpp) | Codeforces | NA |  |
 | [CF_451_B](Codeforces/CF_451_B.cpp) | Codeforces | NA |  |
