@@ -34,7 +34,7 @@ problems = defaultdict(lambda: defaultdict(list))  # problems[source][category] 
 
 # Function to scan through the root directory and collect problem details
 for source_name in os.listdir(ROOT_DIR):
-    if source_name not in ['current', 'blocked', 'current']:  # Skip 'current' and 'blocked' directories
+    if source_name not in ['current', 'blocked']:  # Skip 'current' and 'blocked' directories
         source_dir = os.path.join(ROOT_DIR, source_name)
         if os.path.isdir(source_dir):
             for problem_file in os.listdir(source_dir):
