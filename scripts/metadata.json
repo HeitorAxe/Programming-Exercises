@@ -1,0 +1,6 @@
+{
+  "leet_0330": { "difficulty": "HARD",   "tags": ["Greedy", "Sorting"] },
+  "leet_0502": { "difficulty": "HARD",   "tags": ["Priority Queue"] },
+  "CF_189_A":  {                          "tags": ["Dynamic Programming"] },
+  "GridPaths": {                          "tags": ["Backtracking"] }
+}
