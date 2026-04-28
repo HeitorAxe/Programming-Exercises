@@ -1,0 +1,25 @@
+name: Generate File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run your script
+        run: python scripts/generate_readme.py  # adjust to your script
+
+      - name: Commit and push generated file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .      
+          git diff --staged --quiet || git commit -m "🤖: updated README.md automatically [skip ci]"
+          git push
